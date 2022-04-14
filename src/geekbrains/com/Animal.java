@@ -14,6 +14,7 @@ public class Animal implements AnimalInterface {
         return animalDistanceRun > value;
     }
 
+
     @Override
     public boolean jump(double value) {
         return animalDistanceJump > value;
