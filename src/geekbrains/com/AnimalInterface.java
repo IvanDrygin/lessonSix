@@ -1,6 +1,6 @@
 package geekbrains.com;
 
-public interface AnimalInterface {
+public interface AnimalInterface  {
 
     boolean run(double value);
 
